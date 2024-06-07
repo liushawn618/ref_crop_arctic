@@ -1,0 +1,237 @@
+s09_ketchup_use_04_6 save mode is ln
+removed dir logs/3558f1342/masked_render/s09_ketchup_use_04_6/gt_mesh_l/images/crop_image
+removed dir logs/3558f1342/masked_render/s09_ketchup_use_04_6/gt_mesh_r/images/crop_image
+removed dir logs/3558f1342/masked_render/s09_ketchup_use_04_6/gt_mesh_obj/images/crop_image
+s09_waffleiron_use_01_1 save mode is direct
+s04_scissors_use_02_4 save mode is ln
+removed dir logs/3558f1342/masked_render/s04_scissors_use_02_4/gt_mesh_l/images/crop_image
+removed dir logs/3558f1342/masked_render/s04_scissors_use_02_4/gt_mesh_r/images/crop_image
+removed dir logs/3558f1342/masked_render/s04_scissors_use_02_4/gt_mesh_obj/images/crop_image
+s04_scissors_use_02_4.0694.png seems unormal in ['l'] with multi boxes detected while no overlapping
+s04_scissors_use_02_4 done
+s05_phone_use_02_2 save mode is direct
+s05_phone_use_02_2.0629.png seems unormal in ['r'] with multi boxes detected while no overlapping
+s05_phone_use_02_2 done
+s04_phone_use_01_1 save mode is direct
+s04_phone_use_01_1 done
+s09_notebook_use_04_1 save mode is direct
+s09_notebook_use_04_1.0625.png seems unormal in ['r'] with multi boxes detected while no overlapping
+s09_notebook_use_04_1 done
+s04_laptop_use_01_1 save mode is direct
+s04_laptop_use_01_1 done
+s08_mixer_use_01_8 save mode is ln
+s08_mixer_use_01_8 done
+s09_notebook_use_04_4 save mode is ln
+s09_notebook_use_04_4 done
+s02_phone_grab_01_6 save mode is ln
+s02_phone_grab_01_6.0025.png seems unormal in ['r'] with multi boxes detected while no overlapping
+s02_phone_grab_01_6 done
+s09_notebook_use_02_3 save mode is direct
+s09_notebook_use_02_3 done
+s10_capsulemachine_use_01_7 save mode is ln
+s10_capsulemachine_use_01_7 done
+s02_scissors_use_01_1 save mode is ln
+s02_scissors_use_01_1 done
+s05_microwave_grab_01_2 save mode is ln
+s05_microwave_grab_01_2.0318.png seems unormal in ['r'] with multi boxes detected while no overlapping
+s05_microwave_grab_01_2.0319.png seems unormal in ['r'] with multi boxes detected while no overlapping
+s05_microwave_grab_01_2 done
+s02_laptop_use_02_7 save mode is direct
+s02_laptop_use_02_7 done
+s09_microwave_use_01_4 save mode is ln
+s09_microwave_use_01_4.0658.png seems unormal in ['r'] with multi boxes detected while no overlapping
+s09_microwave_use_01_4 done
+s08_microwave_use_03_5 save mode is direct
+s08_microwave_use_03_5 done
+s06_phone_use_01_5 save mode is ln
+s06_phone_use_01_5.0417.png seems unormal in ['l'] with multi boxes detected while no overlapping
+s06_phone_use_01_5.0172.png seems unormal in ['l'] with multi boxes detected while no overlapping
+s06_phone_use_01_5 done
+s09_notebook_use_02_1 save mode is direct
+s09_notebook_use_02_1 done
+s09_mixer_use_02_1 save mode is direct
+s09_mixer_use_02_1.0033.png seems unormal in ['r'] with multi boxes detected while no overlapping
+s09_mixer_use_02_1 done
+s06_notebook_use_02_8 save mode is direct
+s06_notebook_use_02_8 done
+s08_mixer_use_01_3 save mode is direct
+s08_mixer_use_01_3 done
+s08_laptop_use_04_1 save mode is direct
+s08_laptop_use_04_1 done
+s06_scissors_use_01_3 save mode is ln
+s06_scissors_use_01_3.0587.png seems unormal in ['r'] with multi boxes detected while no overlapping
+s06_scissors_use_01_3 done
+s04_box_grab_01_4 save mode is direct
+s04_box_grab_01_4 done
+s08_scissors_use_03_8 save mode is direct
+s08_scissors_use_03_8 done
+s09_espressomachine_use_03_1 save mode is direct
+s09_espressomachine_use_03_1 done
+s09_ketchup_use_02_2 save mode is ln
+s09_ketchup_use_02_2 done
+s08_microwave_use_03_6 save mode is direct
+s08_microwave_use_03_6 done
+s09_waffleiron_use_03_3 save mode is ln
+s09_waffleiron_use_03_3.0010.png seems unormal in ['r'] with multi boxes detected while no overlapping
+s09_waffleiron_use_03_3 done
+s06_notebook_grab_01_6 save mode is ln
+s06_notebook_grab_01_6 done
+s02_box_grab_01_8 save mode is direct
+s02_box_grab_01_8 done
+s08_capsulemachine_use_03_3 save mode is direct
+s08_capsulemachine_use_03_3 done
+s09_laptop_use_02_8 save mode is direct
+s09_laptop_use_02_8 done
+s07_box_grab_01_2 save mode is direct
+s07_box_grab_01_2 done
+s02_laptop_grab_01_7 save mode is direct
+s02_laptop_grab_01_7.0569.png seems unormal in ['l'] with multi boxes detected while no overlapping
+s02_laptop_grab_01_7 done
+s01_capsulemachine_use_01_6 save mode is direct
+s01_capsulemachine_use_01_6 done
+s10_box_use_02_2 save mode is direct
+s10_box_use_02_2 done
+s09_mixer_use_01_5 save mode is ln
+s09_mixer_use_01_5 done
+s09_ketchup_use_01_3 save mode is ln
+s09_ketchup_use_01_3 done
+s06_capsulemachine_grab_01_6 save mode is direct
+s06_capsulemachine_grab_01_6 done
+s01_laptop_use_01_2 save mode is direct
+s01_laptop_use_01_2 done
+s02_box_use_02_2 save mode is ln
+s02_box_use_02_2 done
+s06_ketchup_use_01_4 save mode is ln
+s06_ketchup_use_01_4 done
+s01_microwave_grab_01_3 save mode is ln
+s01_microwave_grab_01_3 done
+s02_mixer_use_01_7 save mode is direct
+s02_mixer_use_01_7 done
+s08_mixer_use_02_1 save mode is ln
+s08_mixer_use_02_1 done
+s06_phone_use_02_2 save mode is ln
+s06_phone_use_02_2 done
+s07_notebook_use_02_5 save mode is ln
+s07_notebook_use_02_5 done
+s05_notebook_use_01_3 save mode is direct
+s05_notebook_use_01_3.0733.png seems unormal in ['r'] with multi boxes detected while no overlapping
+s05_notebook_use_01_3 done
+s06_mixer_use_02_4 save mode is direct
+s06_mixer_use_02_4 done
+s07_phone_use_02_8 save mode is direct
+s07_phone_use_02_8.0055.png seems unormal in ['l'] with multi boxes detected while no overlapping
+s07_phone_use_02_8.0049.png seems unormal in ['l'] with multi boxes detected while no overlapping
+s07_phone_use_02_8.0054.png seems unormal in ['l'] with multi boxes detected while no overlapping
+s07_phone_use_02_8.0051.png seems unormal in ['l'] with multi boxes detected while no overlapping
+s07_phone_use_02_8.0053.png seems unormal in ['l'] with multi boxes detected while no overlapping
+s07_phone_use_02_8.0027.png seems unormal in ['l'] with multi boxes detected while no overlapping
+s07_phone_use_02_8.0028.png seems unormal in ['l'] with multi boxes detected while no overlapping
+s07_phone_use_02_8.0050.png seems unormal in ['l'] with multi boxes detected while no overlapping
+s07_phone_use_02_8.0052.png seems unormal in ['l'] with multi boxes detected while no overlapping
+s07_phone_use_02_8 done
+s08_scissors_use_04_3 save mode is direct
+s08_scissors_use_04_3 done
+s07_capsulemachine_use_02_7 save mode is ln
+s07_capsulemachine_use_02_7 done
+s05_phone_use_02_1 save mode is ln
+s05_phone_use_02_1 done
+s07_scissors_use_01_5 save mode is direct
+s07_scissors_use_01_5 done
+s05_laptop_use_02_2 save mode is direct
+s05_laptop_use_02_2 done
+s09_waffleiron_use_02_7 save mode is direct
+s09_waffleiron_use_02_7.0031.png seems unormal in ['l'] with multi boxes detected while no overlapping
+s09_waffleiron_use_02_7 done
+s01_laptop_use_01_7 save mode is direct
+s01_laptop_use_01_7 done
+s09_notebook_use_02_6 save mode is direct
+s09_notebook_use_02_6 done
+s06_phone_grab_01_4 save mode is ln
+s06_phone_grab_01_4 done
+s04_mixer_grab_01_7 save mode is ln
+s04_mixer_grab_01_7.0019.png seems unormal in ['l'] with multi boxes detected while no overlapping
+s04_mixer_grab_01_7 done
+s01_capsulemachine_grab_01_8 save mode is ln
+s01_capsulemachine_grab_01_8.0336.png seems unormal in ['l'] with multi boxes detected while no overlapping
+s01_capsulemachine_grab_01_8.0337.png seems unormal in ['l'] with multi boxes detected while no overlapping
+s01_capsulemachine_grab_01_8.0120.png seems unormal in ['l'] with multi boxes detected while no overlapping
+s01_capsulemachine_grab_01_8.0297.png seems unormal in ['l'] with multi boxes detected while no overlapping
+s01_capsulemachine_grab_01_8 done
+s10_waffleiron_grab_01_1 save mode is direct
+s10_waffleiron_grab_01_1.0669.png seems unormal in ['r'] with multi boxes detected while no overlapping
+s10_waffleiron_grab_01_1 done
+s08_waffleiron_use_01_1 save mode is ln
+s08_waffleiron_use_01_1 done
+s02_notebook_use_02_4 save mode is direct
+s02_notebook_use_02_4 done
+s07_microwave_grab_01_4 save mode is ln
+s07_microwave_grab_01_4.0009.png seems unormal in ['l'] with multi boxes detected while no overlapping
+s07_microwave_grab_01_4.0011.png seems unormal in ['r'] with multi boxes detected while no overlapping
+s07_microwave_grab_01_4 done
+s09_ketchup_use_04_6 finished
+s09_waffleiron_use_01_1 finished
+s04_scissors_use_02_4 finished
+s05_phone_use_02_2 finished
+s04_phone_use_01_1 finished
+s09_notebook_use_04_1 finished
+s04_laptop_use_01_1 finished
+s08_mixer_use_01_8 finished
+s09_notebook_use_04_4 finished
+s02_phone_grab_01_6 finished
+s09_notebook_use_02_3 finished
+s10_capsulemachine_use_01_7 finished
+s02_scissors_use_01_1 finished
+s05_microwave_grab_01_2 finished
+s02_laptop_use_02_7 finished
+s09_microwave_use_01_4 finished
+s08_microwave_use_03_5 finished
+s06_phone_use_01_5 finished
+s09_notebook_use_02_1 finished
+s09_mixer_use_02_1 finished
+s06_notebook_use_02_8 finished
+s08_mixer_use_01_3 finished
+s08_laptop_use_04_1 finished
+s06_scissors_use_01_3 finished
+s04_box_grab_01_4 finished
+s08_scissors_use_03_8 finished
+s09_espressomachine_use_03_1 finished
+s09_ketchup_use_02_2 finished
+s08_microwave_use_03_6 finished
+s09_waffleiron_use_03_3 finished
+s06_notebook_grab_01_6 finished
+s02_box_grab_01_8 finished
+s08_capsulemachine_use_03_3 finished
+s09_laptop_use_02_8 finished
+s07_box_grab_01_2 finished
+s02_laptop_grab_01_7 finished
+s01_capsulemachine_use_01_6 finished
+s10_box_use_02_2 finished
+s09_mixer_use_01_5 finished
+s09_ketchup_use_01_3 finished
+s06_capsulemachine_grab_01_6 finished
+s01_laptop_use_01_2 finished
+s02_box_use_02_2 finished
+s06_ketchup_use_01_4 finished
+s01_microwave_grab_01_3 finished
+s02_mixer_use_01_7 finished
+s08_mixer_use_02_1 finished
+s06_phone_use_02_2 finished
+s07_notebook_use_02_5 finished
+s05_notebook_use_01_3 finished
+s06_mixer_use_02_4 finished
+s07_phone_use_02_8 finished
+s08_scissors_use_04_3 finished
+s07_capsulemachine_use_02_7 finished
+s05_phone_use_02_1 finished
+s07_scissors_use_01_5 finished
+s05_laptop_use_02_2 finished
+s09_waffleiron_use_02_7 finished
+s01_laptop_use_01_7 finished
+s09_notebook_use_02_6 finished
+s06_phone_grab_01_4 finished
+s04_mixer_grab_01_7 finished
+s01_capsulemachine_grab_01_8 finished
+s10_waffleiron_grab_01_1 finished
+s08_waffleiron_use_01_1 finished
+s02_notebook_use_02_4 finished
+s07_microwave_grab_01_4 finished
